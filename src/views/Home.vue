@@ -21,9 +21,6 @@
       <v-icon>mdi-fingerprint</v-icon>
     </v-btn>
     
-    <v-btn>Cell
-      <v-icon> mdi-cellphone</v-icon>
-    </v-btn>
   </div>
 </template>
 
